@@ -1,0 +1,15 @@
+﻿  board.cpp
+  computer.cpp
+  gameConfig.cpp
+  general.cpp
+  humanPlayer.cpp
+  main.cpp
+C:\Users\rotem\OneDrive\מסמכים\רותם\לימודים\שנה ב\C++\תכנות מכווון עצמים וC++\הגשות\TETRIS 2\TETRIS 2\main.cpp(11,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  player.cpp
+  point.cpp
+  shape.cpp
+  tetrisGame.cpp
+  Generating Code...
+C:\Users\rotem\OneDrive\מסמכים\רותם\לימודים\שנה ב\C++\תכנות מכווון עצמים וC++\הגשות\TETRIS 2\TETRIS 2\tetrisGame.cpp(346,1): warning C4715: 'TetrisGame::ifColor': not all control paths return a value
+C:\Users\rotem\OneDrive\מסמכים\רותם\לימודים\שנה ב\C++\תכנות מכווון עצמים וC++\הגשות\TETRIS 2\TETRIS 2\tetrisGame.cpp(212,1): warning C4715: 'TetrisGame::run': not all control paths return a value
+  TETRIS 2.vcxproj -> C:\Users\rotem\OneDrive\מסמכים\רותם\לימודים\שנה ב\C++\תכנות מכווון עצמים וC++\הגשות\TETRIS 2\x64\Debug\TETRIS 2.exe
